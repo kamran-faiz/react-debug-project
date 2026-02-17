@@ -33,7 +33,7 @@ function App() {
    <StyledForm/>
    <ContactForm/>
    <UserProfile/>   
-   <h1>First React Project</h1>
+   
    <Welcome name="Kamran" alias="The special one"/>
    <Button/>
    </div>
